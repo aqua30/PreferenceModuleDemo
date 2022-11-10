@@ -1,7 +1,9 @@
 # DataStore Module Sample
 The project demonstrate the usage of how and why to have an independent preference module for our apps.
 
-// video here
+
+https://user-images.githubusercontent.com/4559525/201014451-ccd8164e-aa6a-45fa-b073-1eda57705ce9.mp4
+
 
 ## Article for this project
 [Click here to read](https://saurabhpant.medium.com/a-better-way-to-pass-data-from-api-to-composable-jetpack-compose-android-b844ec1da072)
