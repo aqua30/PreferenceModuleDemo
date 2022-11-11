@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/4559525/201014451-ccd8164e-aa6a-45fa-b
 
 
 ## Article for this project
-[Click here to read](https://saurabhpant.medium.com/a-better-way-to-pass-data-from-api-to-composable-jetpack-compose-android-b844ec1da072)
+[Click here to read](https://saurabhpant.medium.com/preference-layer-using-data-store-android-jetpack-f47416ea80e2)
 
 ## Preference module benefits
 - Separate out the logic for saving local preferences from main app module
